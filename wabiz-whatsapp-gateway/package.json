@@ -1,0 +1,17 @@
+{
+  "name": "wabiz-whatsapp-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.29.2",
+    "@wppconnect/server": "2.10.30",
+    "prom-client": "^14.2.0"
+  }
+}

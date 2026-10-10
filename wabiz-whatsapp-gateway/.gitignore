@@ -1,0 +1,6 @@
+.env
+tokens/
+userDataDir/
+log/
+uploads/
+WhatsAppImages/
